@@ -1,0 +1,19 @@
+.IntroMsg {
+    margin-top: -50px;
+    margin-right: 50px;
+    position: relative;
+    width: 100%;
+    left: 1%;
+    top: -20%;
+    text-align: center;
+    padding: 60px;
+    height: auto;
+    opacity: 0.9;
+    background-color: transparent;
+    border-radius: 10px;
+
+}
+.introduction{
+    margin-right: 160px;
+    margin-top: 40px;
+}
